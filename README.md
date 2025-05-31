@@ -69,6 +69,3 @@ This project is open to contributions. Please open an *issue* or *pull request* 
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-## Notes
-Developed in May 2025 with assistance from Grok 3 by xAI. The dataset is sourced from the World Bank and used solely for academic and research purposes.
